@@ -1,0 +1,20 @@
+{
+  "name": "playwright-qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+  "test:login": "npx playwright test tests/login",
+  "test:cart": "npx playwright test tests/cart",
+  "test:order": "npx playwright test tests/order",
+  "report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2"
+  }
+}
