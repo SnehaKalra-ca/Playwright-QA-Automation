@@ -28,6 +28,11 @@ Playwright-QA-Automation/
 | TC4          | Checkout after reviewing cart              | tests/cart/        |
 | TC5          | Confirm order and validate order history   | tests/order/       |
 
+## Sample Test Report
+
+![Test Report for TC1 to TC5](assets/playwright_TC1toTC5_report.png)
+
+
 
 ##  How to Run the Tests
 
@@ -67,4 +72,5 @@ This project was built using the following tools and technologies:
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)  
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-brightgreen?logo=node.js)  
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
 
